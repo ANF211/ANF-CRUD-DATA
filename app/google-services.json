@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700261850969",
+    "project_id": "newsapplication-f681c",
+    "storage_bucket": "newsapplication-f681c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700261850969:android:feb47190886214bd02f648",
+        "android_client_info": {
+          "package_name": "com.example.latcrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz71GwyAoJ0drKeL_V6nFo3I39QfoVRtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
